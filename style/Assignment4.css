@@ -1,0 +1,11 @@
+section.section1
+{
+    background-color: #FFFFCC; visibility: hidden;
+    position: absolute; top: 125px; left: 10px; width: 600px;
+}
+section.section2
+{
+    background-color: #DCDCDC; visibility: hidden;
+    position: absolute; top: 125px; left: 10px; width: 600px;
+}
+
